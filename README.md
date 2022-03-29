@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Full stack web developer Daniel Ramírez</h1>
-<h3 align="center">Who am I?👀 hello! 👋🏼 I'm developer 🧑🏻‍💻, I have the ability to carry out web projects as long as they can be modularized in order to be able to build it as a team and be scalable. Why me?🤷🏽‍♂️ 🚀 With me you will get a curious, self-taught developer with great problem-solving skills and above all a sociable developer always willing to teach and learn from others.</h3>
+<h3 align="center">¿Quién soy?👀
+🚀 Hola! 👋🏼 soy Daniel Ramírez, desarrollador web Full Stack 🧑🏻‍💻, tengo capacidad de realizar proyectos web siempre que sean modularizados para así poder construirlo en equipo y sea escalable.
 
-- 🔭 I’m currently working on **E-commerce**
+¿Por qué yo?🤷🏽‍♂️
+
+🚀 Conmigo obtendrás un desarrollador curioso, autodidacta con gran capacidad de resolución de problemas y sobre todo un desarrollador sociable siempre dispuesto a enseñar, y aprender de los demás.</h3>
+
+
 
 - 📫 How to reach me **danieljra1999@gmail.com**
 
