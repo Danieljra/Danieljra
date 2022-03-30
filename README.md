@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Full stack web developer Daniel Ramírez</h1>
+<h1 align="center">Hola 👋, soy   Daniel Ramírez desarrollador web Full stack</h1>
 <h3 align="center">¿Quién soy?👀
 🚀 Hola! 👋🏼 soy Daniel Ramírez, desarrollador web Full Stack 🧑🏻‍💻, tengo capacidad de realizar proyectos web siempre que sean modularizados para así poder construirlo en equipo y sea escalable.
 
